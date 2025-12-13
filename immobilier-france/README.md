@@ -1,5 +1,7 @@
 # 🏠 Analyse du marché immobilier en France
 
+![Dashboard Power BI](dashboard-overview.png)
+
 ## 🎯 Objectif
 Analyser l’évolution des prix au m² et l’activité du marché immobilier par département afin d’identifier les tendances et les zones dynamiques.
 
