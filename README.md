@@ -31,5 +31,5 @@ Grâce à mon expérience en communication, j’accorde une attention particuli�
 ---
 
 ## 🔗 Liens
-- LinkedIn : https://www.linkedin.com/in/TON-LINKEDIN
+- LinkedIn :  https://www.linkedin.com/in/aboubacar-barry
 - Email : aboubacarbarry72@gmail.com
