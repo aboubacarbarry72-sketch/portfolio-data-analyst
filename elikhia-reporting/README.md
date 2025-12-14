@@ -24,4 +24,4 @@ Mettre en place un reporting décisionnel afin de suivre les performances commer
 ---
 
 ## 🔗 Rapport interactif
-➡️ Projet réalisé en contexte professionnel (lien non public)
+➡️ Rapport Power BI interactif disponible sur demande (présentation en entretien).
