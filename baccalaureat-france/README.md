@@ -1,5 +1,5 @@
 # 🎓 Analyse des résultats du Baccalauréat en France
-
+![Dashboard Power BI](dashboard_overview.png)
 
 ## 🎯 Objectif
 Étudier les taux de réussite, d’admission, de mentions et les disparités entre académies afin de mieux comprendre les écarts territoriaux.
