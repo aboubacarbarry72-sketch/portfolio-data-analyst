@@ -23,4 +23,4 @@ Analyser l’évolution des prix au m² et l’activité du marché immobilier p
 ---
 
 ## 🔗 Rapport interactif
-➡️ Lien Power BI : à venir
+➡️ Rapport Power BI interactif disponible sur demande (présentation en entretien).
