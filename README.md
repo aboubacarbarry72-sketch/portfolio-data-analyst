@@ -26,7 +26,7 @@ Grâce à mon expérience en communication, j’accorde une attention particuli�
 - 🎓 **Analyse des résultats du Baccalauréat**
 - 📈 **Reporting commercial – Projet Elikhia**
 
-👉 Les projets sont détaillés dans les dossiers correspondants ci-dessous.
+👉 Les projets sont détaillés dans les dossiers correspondants ci-dessus.
 
 ---
 
