@@ -22,4 +22,7 @@
 ---
 
 ## 🔗 Rapport interactif
-➡️ Lien Power BI : à venir
+➡️ Rapport Power BI interactif disponible sur demande (présentation en entretien).
+
+
+
