@@ -1,4 +1,4 @@
-# 🇨🇦 Immigration au Canada (1980–2013)
+# Immigration au Canada (1980–2013)
 
 ![Dashboard Immigration Canada](dashboard_overview.png)
 
