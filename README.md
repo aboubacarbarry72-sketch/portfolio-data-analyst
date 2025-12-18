@@ -1,7 +1,7 @@
 # 👋 Aboubacar Barry — Data Analyst (Power BI)
 
 ## 📊 À propos
-Data Analyst orienté Power BI, je transforme les données en résultats clairs et visuels afin de faciliter la prise de décision.
+Data Analyst, je transforme les données en résultats clairs et visuels afin de faciliter la prise de décision.
 Grâce à mon expérience en communication, j’accorde une attention particulière à la lisibilité des analyses, au data storytelling et à la compréhension des enjeux métiers.
 
 📍 Lyon, France  
