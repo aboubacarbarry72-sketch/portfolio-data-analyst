@@ -1,6 +1,6 @@
 # 📈 Reporting commercial — Projet Elikhia
 
-![Dashboard Power BI](dashboard_overview.png)
+
 
 ## 🎯 Objectif
 Mettre en place un reporting décisionnel afin de suivre les performances commerciales et d’accompagner le pilotage de l’activité.
