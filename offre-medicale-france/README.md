@@ -8,13 +8,15 @@ L'objectif est de fournir une vision synthétique de la répartition des profess
 
 ---
 
-## 🎯 Objectifs
+## 📷 Aperçu du tableau de bord
 
-- Analyser la densité des médecins généralistes par région.
-- Étudier l'évolution des effectifs des professionnels de santé.
-- Identifier les régions les plus et les moins dotées.
-- Comparer les principales professions de santé.
-- Faciliter l'analyse grâce à un tableau de bord interactif.
+### Accès aux soins
+
+![Accès aux soins](dashboard1.png)
+
+### Évolution de l'offre de soins
+
+![Évolution de l'offre](dashboard2.png)
 
 ---
 
@@ -39,18 +41,6 @@ L'objectif est de fournir une vision synthétique de la répartition des profess
 
 ---
 
-## 📷 Aperçu du tableau de bord
-
-### Accès aux soins
-
-![Accès aux soins](dashboard1.png)
-
-### Évolution de l'offre de soins
-
-![Évolution de l'offre](dashboard2.png)
-
----
-
 ## 💡 Principaux enseignements
 
 - L'offre médicale progresse globalement entre 2010 et 2024.
@@ -61,6 +51,5 @@ L'objectif est de fournir une vision synthétique de la répartition des profess
 
 ---
 
-## 📄 À noter
-
-Le fichier Power BI (.pbix) est disponible et peut être présenté lors d'un entretien afin de détailler la conception du tableau de bord, la modélisation des données et les calculs réalisés.
+## 🔗 Rapport interactif
+➡️ Rapport Power BI interactif disponible sur demande (présentation en entretien).
