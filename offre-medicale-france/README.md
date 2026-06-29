@@ -8,13 +8,7 @@ L'objectif est de fournir une vision synthétique de la répartition des profess
 
 ---
 
-## 📷 Aperçu du tableau de bord
-
-### Accès aux soins
-
 ![Accès aux soins](dashboard1.png)
-
-### Évolution de l'offre de soins
 
 ![Évolution de l'offre](dashboard2.png)
 
